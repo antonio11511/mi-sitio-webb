@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#20c997"/><circle cx="300" cy="230" r="115" fill="#0b1220"/>
+<path d="M120 540c20-130 105-190 180-190s160 60 180 190" fill="#0b1220"/>
+<text x="300" y="585" text-anchor="middle" font-family="Arial" font-size="28" fill="white">AV</text>
+</svg>

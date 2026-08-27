@@ -1,0 +1,14 @@
+PROMPT ESTRUCTURADO UTILIZADO
+
+Actúa como desarrollador web especializado en HTML5, CSS3 y JavaScript. Necesito construir
+un sitio web personal profesional para un aprendiz del programa Sistemas Informáticos.
+El sitio funcionará como portafolio profesional y hoja de vida digital.
+
+Debe contener: Inicio, Perfil, Formación, Experiencia, Habilidades, Proyectos, Servicios,
+Expectativas profesionales y Contacto. Debe incluir fotografía o avatar, mínimo tres
+proyectos, enlaces a redes profesionales, formulario de contacto y llamado a la acción.
+
+Utiliza HTML5 semántico, CSS3 externo y JavaScript para las interacciones. El diseño debe
+ser moderno, limpio, profesional, accesible y responsive para computador, tablet y celular.
+Utiliza una estructura organizada de archivos: index.html, css/estilos.css, js/script.js,
+img/ y README.md. No utilices código innecesario y aplica buenas prácticas.
